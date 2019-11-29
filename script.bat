@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Enter directory name"
+echo "lea sol"
 read newdir
 `mkdir $newdir`
